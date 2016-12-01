@@ -1,0 +1,483 @@
+{
+	"continent": "Africa",
+	"countryList": [
+		{
+			"countryName": "Algeria",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Abdelaziz Bouteflika",
+			"countryFlag": "",
+			"countryCapital": "Algiers",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Angola",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "José Eduardo dos Santos",
+			"countryFlag": "",
+			"countryCapital": "Luanda",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Benin",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Patrice Talon",
+			"countryFlag": "",
+			"countryCapital": "Porto-Novo",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Botswana",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Ian Khama",
+			"countryFlag": "",
+			"countryCapital": "Gaborone",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Burkina Faso",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Roch Marc Christian Kaboré",
+			"countryFlag": "",
+			"countryCapital": "Ouagadougou",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Burundi",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Pierre Nkurunziza",
+			"countryFlag": "",
+			"countryCapital": "Bujumbura",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Cameroon",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Paul Biya",
+			"countryFlag": "",
+			"countryCapital": "Yaoundé",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Cape Verde",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Jorge Carlos Fonseca",
+			"countryFlag": "",
+			"countryCapital": "Praia",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Central African Republic",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Faustin-Archange Touadéra",
+			"countryFlag": "",
+			"countryCapital": "Bangui",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Chad",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Idriss Déby",
+			"countryFlag": "",
+			"countryCapital": "N'Djamena",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Comoros",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Azali Assoumani",
+			"countryFlag": "",
+			"countryCapital": "Moroni",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Democratic Republic of the Congo",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Joseph Kabila",
+			"countryFlag": "",
+			"countryCapital": "Kinshasa",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Republic of the Congo",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Denis Sassou Nguesso",
+			"countryFlag": "",
+			"countryCapital": "Brazzaville",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Djibouti",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Ismaïl Omar Guelleh",
+			"countryFlag": "",
+			"countryCapital": "Djibouti City",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Egypt",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Abdel Fattah el-Sisi",
+			"countryFlag": "",
+			"countryCapital": "Cairo",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Equatorial Guinea",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Teodoro Obiang Nguema Mbasogo",
+			"countryFlag": "",
+			"countryCapital": "Malabo",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Eritrea",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Isaias Afwerki",
+			"countryFlag": "",
+			"countryCapital": "Asmara",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Ethiopia",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Mulatu Teshome",
+			"countryFlag": "",
+			"countryCapital": "Addis Ababa",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Gabon",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Ali Bongo Ondimba",
+			"countryFlag": "",
+			"countryCapital": "Libreville",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Gambia",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Yahya Jammeh",
+			"countryFlag": "",
+			"countryCapital": "Banjul",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Ghana",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "John Dramani Mahama",
+			"countryFlag": "",
+			"countryCapital": "Accra",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Guinea",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Alpha Condé",
+			"countryFlag": "",
+			"countryCapital": "Conakry",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Guinea-Bissau",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "José Mário Vaz",
+			"countryFlag": "",
+			"countryCapital": "Bissau",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Côte d'Ivoire",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Alassane Ouattara",
+			"countryFlag": "",
+			"countryCapital": "Yamoussoukro",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Kenya",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Uhuru Kenyatta",
+			"countryFlag": "",
+			"countryCapital": "Nairobi",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Lesotho",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "Prime Minister",
+			"countryLeader": "Pakalitha Mosisili",
+			"countryFlag": "",
+			"countryCapital": "Maseru",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Liberia",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Ellen Johnson Sirleaf",
+			"countryFlag": "",
+			"countryCapital": "Monrovia",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Libya",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Aguila Saleh Issa",
+			"countryFlag": "",
+			"countryCapital": "Tripoli",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Madagascar",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Hery Rajaonarimampianina",
+			"countryFlag": "",
+			"countryCapital": "Antananarivo",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Malawi",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Arthur Peter Mutharika",
+			"countryFlag": "",
+			"countryCapital": "Lilongwe",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Mali",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Ibrahim Boubacar Keïta",
+			"countryFlag": "",
+			"countryCapital": "Bamako",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Mauritania",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Mohamed Ould Abdel Aziz",
+			"countryFlag": "",
+			"countryCapital": "Nouakchott",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Mauritius",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "Prime Minister",
+			"countryLeader": "Anerood Jugnauth",
+			"countryFlag": "",
+			"countryCapital": "Port Louis",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Morocco",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "King",
+			"countryLeader": "Mohammed VI",
+			"countryFlag": "",
+			"countryCapital": "Rabat",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Mozambique",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Filipe Nyusi",
+			"countryFlag": "",
+			"countryCapital": "Maputo",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Namibia",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Hage Geingob",
+			"countryFlag": "",
+			"countryCapital": "Windhoek",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Niger",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Mahamadou Issoufou",
+			"countryFlag": "",
+			"countryCapital": "Niamey",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Nigeria",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Muhammadu Buhari",
+			"countryFlag": "",
+			"countryCapital": "Abuja",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Rwanda",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Paul Kagame",
+			"countryFlag": "",
+			"countryCapital": "Kigali",
+			"countryImage": ""
+		},
+		{
+			"countryName": "São Tomé and Príncipe",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Evaristo Carvalho",
+			"countryFlag": "",
+			"countryCapital": "São Tomé",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Senegal",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Macky Sall",
+			"countryFlag": "",
+			"countryCapital": "Dakar",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Seychelles",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Danny Faure",
+			"countryFlag": "",
+			"countryCapital": "Victoria",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Sierra Leone",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Ernest Bai Koroma",
+			"countryFlag": "",
+			"countryCapital": "Freetown",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Somalia",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Hassan Sheikh Mohamud",
+			"countryFlag": "",
+			"countryCapital": "Mogadishu",
+			"countryImage": ""
+		},
+		{
+			"countryName": "South Africa",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Jacob Zuma",
+			"countryFlag": "",
+			"countryCapital": "Pretoria",
+			"countryImage": ""
+		},
+		{
+			"countryName": "South Sudan",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Salva Kiir Mayardit",
+			"countryFlag": "",
+			"countryCapital": "Juba",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Sudan",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Omar al-Bashir",
+			"countryFlag": "",
+			"countryCapital": "Khartoum",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Swaziland",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "King",
+			"countryLeader": "Mswati III",
+			"countryFlag": "",
+			"countryCapital": "Lobamba",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Tanzania",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "John Pombe Magufuli",
+			"countryFlag": "",
+			"countryCapital": "Dodoma",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Togo",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Faure Gnassingbé",
+			"countryFlag": "",
+			"countryCapital": "Lomé",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Tunisia",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Beji Caid Essebsi",
+			"countryFlag": "",
+			"countryCapital": "Tunis",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Uganda",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Yoweri Museveni",
+			"countryFlag": "",
+			"countryCapital": "Kampala",
+			"countryImage": ""
+		},
+		{
+			"countryName": "Zimbabwe",
+			"countryLeaderImage": "",
+			"countryLeaderTitle": "President",
+			"countryLeader": "Robert Mugabe",
+			"countryFlag": "",
+			"countryCapital": "Harare",
+			"countryImage": ""
+		}
+		
+	]
+}
